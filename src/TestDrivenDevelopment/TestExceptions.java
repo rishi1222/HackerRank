@@ -1,4 +1,4 @@
-package TestDrivenTesting;
+package TestDrivenDevelopment;
 
 /*
 * How do I write a test that passes when an expected exception is thrown?
