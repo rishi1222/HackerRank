@@ -1,0 +1,3 @@
+package DataStructures.Collections;
+
+/*The general-purpose implementations support all of the optional operations in the collection interfaces and have no restrictions on the elements they may contain. They are unsynchronized, but the Collections class contains static factories called synchronization wrappers that can be used to add synchronization to many unsynchronized collections. All of the new implementations have fail-fast iterators, which detect invalid concurrent modification, and fail quickly and cleanly (rather than behaving erratically).*/
